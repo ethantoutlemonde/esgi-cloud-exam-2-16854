@@ -1,0 +1,2 @@
+# sitestaic
+cloud
